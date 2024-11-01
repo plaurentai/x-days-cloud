@@ -29,7 +29,36 @@ The focus was on understanding what cloud computing is all about, AWS account, a
 
 The lesson today was refreshing, especially the learning about AWS account. An AWS account is a container for identities and resources. Root user has access to everytging, while IAM users has access to only what they are allowed to. 
 
-**Work & Resources**:\
+**Work & Resources**:
+
 [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+
+---
+
+### Day 2 - Multi Factor Authentication
+
+#### November 1, 2024
+
+---
+
+**Focus**: 
+
+The focus was on multi-factor authentication and securing your AWS account.
+
+**Progress**:
+
+- Understanding what multi-factor authentication is all about
+- Secure the AWS root-user user
+- Set billing preference
+- Create a budget to keep track of cost
+- Create a billing alerts 
+
+**Thoughts**:
+
+The learning today was super hands-on. Today I created another AWS account from scratch, setup MFA, budget, IAM user and Role Access to billing. Now I have two accounts: General account and a production account. These are accounts are needed to practice AWS organization, and so on. 
+
+**Work & Resources**:
+
+NONE
 
 ---
