@@ -104,6 +104,7 @@ The learning focuses on creating and securing identities
 - Setup MFA for both
 - Attached policies to both
 - Creating account alias
+- creating access keys
 
 **Thoughts**:
 
