@@ -62,3 +62,73 @@ The learning today was super hands-on. Today I created another AWS account from 
 NONE
 
 ---
+
+### Day 3 - IAM Basics
+
+#### November 2, 2024
+
+---
+
+**Focus**: 
+
+The focus was on IAM Basics
+
+**Progress**:
+
+- Understanding the relationship between an AWS account, IAM, and the root user
+- Understanding user, group, and role
+- Understand what IAM as a global service means 
+
+**Thoughts**:
+
+The learning today was focus on understanding the basics of IAM. IAM as a service you noting to  create groups, users, and roles. IAM allows you to control what identifies can and cannot do. 
+
+**Work & Resources**:
+
+NONE
+
+---
+
+### Day 4 - IAM Hands-on
+
+#### November 3, 2024
+
+---
+
+**Focus**: 
+
+The learning focuses on creating and securing identities 
+
+**Progress**:
+- Creating two separate identities for two different AWS accounts
+- Setup MFA for both
+- Attached policies to both
+- Creating account alias
+
+**Thoughts**:
+
+Today was super cool playing around with the IAM service. Most importantly I created two separate identities in two separate AWS accounts. In total I have created and secured four accounts. As seen in the picture, with the iamadmin created I no longer needed to use the root user accounts to provision the environments. With these account I can do lots of hangs-on practice. 
+
+**Work & Resources**:
+
+![AWS Account](images/aws_accounts.png)
+
+---
+
+### Day X - IAM Basics
+
+#### November X, 2024
+
+---
+
+**Focus**: 
+
+**Progress**:
+
+**Thoughts**:
+
+**Work & Resources**:
+
+NONE
+
+---
