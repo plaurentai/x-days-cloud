@@ -19,7 +19,24 @@ This section assumes an identity is already created as well as the AWS access ke
 As you can see there are no instances of ec2 running:
 
 ```
-jude@pyai x-days-cloud % aws ec2 describe-instances
+$ aws ec2 describe-instances
+{
+    "Reservations": []
+}
+
+```
+
+## Setting up the profile
+
+```
+$ aws configure --profile admin
+```
+
+## Testing to make sure profile is setup correctly
+
+```
+$ aws ec2 describe-instances --profile admin
+
 {
     "Reservations": []
 }
